@@ -207,6 +207,30 @@
 }
 
 
+/* Profile pic */
+
+
+.profile-pic{
+ background-image: url(../img/splash.png);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size:cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*** About ***/
 #about .years .display-1 {
     font-size: 10rem;
